@@ -458,7 +458,7 @@ Activación de Led cuando
 
 
 
-Progrmación por bloques:
+Programación por bloques:
 
 
 [![Ejercicio-2-25-nov-2022.png](https://i.postimg.cc/x8x7rkTK/Ejercicio-2-25-nov-2022.png)](https://postimg.cc/sGWK7gWX)
