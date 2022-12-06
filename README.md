@@ -451,7 +451,7 @@ Posteriormente realizaremos la reglas y la programación por bloques.
 
 
 
-Activación de Led cuando 
+Activación de Led cuando se detecta mayor temperatura:
 
 
 [![Ejercicio-1-25-nov-2022.png](https://i.postimg.cc/rw06k94z/Ejercicio-1-25-nov-2022.png)](https://postimg.cc/Snh1LCDp)
